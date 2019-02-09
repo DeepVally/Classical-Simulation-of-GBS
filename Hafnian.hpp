@@ -18,7 +18,7 @@ struct Complex{
     double image;
 };
 
-#define MAXX 120
+#define MAXX 50
 
 
 Complex MultiComplex(Complex za, Complex zb);
